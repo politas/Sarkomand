@@ -1,2 +1,2 @@
 # Sarkomand
-Sarkomand Space Agency Flag mod
+Sarkomand Aeronautics Flag mod
